@@ -1,4 +1,4 @@
-# azure by Christos
+# Azure examples...
 
 repo to gia exploration tou azure (alla k gia to github)
 
