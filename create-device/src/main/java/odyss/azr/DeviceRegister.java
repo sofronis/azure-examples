@@ -8,7 +8,6 @@ import com.microsoft.azure.iot.service.sdk.RegistryManager;
 import java.io.IOException;
 import java.net.URISyntaxException;
 
-
 public class DeviceRegister {
 	
 	private static final String connectionString = "HostName=odyss-iot.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=lFQKHNR0dzw3grXvgpJRq6rCrIk8RTBkYpM8bfMLtjM=";
